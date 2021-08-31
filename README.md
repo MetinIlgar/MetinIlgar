@@ -50,6 +50,10 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metinilgar&show_icons=true&locale=en&layout=compact" alt="metinilgar" /></p>
+<a href="https://github.com/MetinIlgar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=metinilgar&show_icons=true&locale=en&layout=compact" alt="metinilgar" />
+ </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metinilgar&show_icons=true&locale=en" alt="metinilgar" /></p>
+<a href="https://github.com/MetinIlgar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=metinilgar&show_icons=true&locale=en" alt="metinilgar" />
+ </a>
